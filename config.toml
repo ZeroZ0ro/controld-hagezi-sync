@@ -25,7 +25,7 @@ dry_run = false
 
 [profiles]
 # Exact names of your ControlD profiles (case-sensitive).
-names = ["Privacy"]
+names = ["Privacy Profile"]
 
 # =============================================================================
 # FOLDER DEFINITIONS
@@ -49,4 +49,4 @@ names = ["Privacy"]
 # =============================================================================
 
 [profile_folders]
-Privacy   = ["Badware Hoster", "Most Abused TLDs", "Spam IDNS", "Ultimate Known Issues", "META Tracker Allow"]
+Privacy Profile  = ["Badware Hoster", "Most Abused TLDs", "Spam IDNS", "Ultimate Known Issues", "META Tracker Allow"]
