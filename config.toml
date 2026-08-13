@@ -49,4 +49,4 @@ names = ["Privacy Profile"]
 # =============================================================================
 
 [profile_folders]
-Privacy Profile = ["Badware Hoster", "Most Abused TLDs", "Spam IDNS", "Ultimate Known Issues", "META Tracker Allow"]
+Privacy = ["Badware Hoster", "Most Abused TLDs", "Spam IDNS", "Ultimate Known Issues", "META Tracker Allow"]
