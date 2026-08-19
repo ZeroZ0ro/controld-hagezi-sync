@@ -35,11 +35,11 @@ names = ["Privacy Profile"]
 # =============================================================================
 
 [folders]
-"Badware Hoster"         = "https://hagezi-mirror.dnsbunker.org/controld/badware-hoster-folder.json"
-"Most Abused TLDs"       = "https://hagezi-mirror.dnsbunker.org/controld/spam-tlds-combined-folder.json"
-"Spam IDNS"              = "https://hagezi-mirror.dnsbunker.org/controld/spam-idns-folder.json"
-"Ultimate Known Issues"  = "https://hagezi-mirror.dnsbunker.org/controld/ultimate-known_issues-allow-folder.json"
-"META Tracker Allow"     = "https://hagezi-mirror.dnsbunker.org/controld/meta-tracker-allow-folder.json"
+"Badware Hoster"         = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json"
+"Most Abused TLDs"       = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-combined-folder.json"
+"Spam IDNS"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json"
+"Ultimate Known Issues"  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
+"META Tracker Allow"     = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
