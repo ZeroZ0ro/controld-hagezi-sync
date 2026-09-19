@@ -36,10 +36,11 @@ names = ["Privacy Profile"]
 
 [folders]
 "Badware Hoster"         = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json"
+"META Tracker Allow"     = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
 "Most Abused TLDs"       = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-combined-folder.json"
+"No Safesearch Support"  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/nosafesearch-folder.json"
 "Spam IDNS"              = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json"
 "Ultimate Known Issues"  = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/ultimate-known_issues-allow-folder.json"
-"META Tracker Allow"     = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/meta-tracker-allow-folder.json"
 
 # =============================================================================
 # PROFILE → FOLDER MAPPINGS
@@ -49,4 +50,4 @@ names = ["Privacy Profile"]
 # =============================================================================
 
 [profile_folders]
-"Privacy Profile" = ["Badware Hoster", "Most Abused TLDs", "Spam IDNS", "Ultimate Known Issues", "META Tracker Allow"]
+"Privacy Profile" = ["Badware Hoster", "META Tracker Allow", "Most Abused TLDs", "No Safesearch Support", "Spam IDNS", "Ultimate Known Issues"]
